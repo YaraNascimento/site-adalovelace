@@ -14,9 +14,17 @@ O site foi desenvolvido com o apoio do prograMaria, com intuito de capacitar mul
 
 
 Site Ada Lovelace
+
+
 HTMl, CSS e Js
+
+
 Link do site: https://ugly-relation.surge.sh/
+
+
 Imagens do site:
+
+
 ![Captura de Tela 2021-08-01 às 11 07 45](https://user-images.githubusercontent.com/83086134/127774453-a392acf7-663b-451c-af8e-ff0deb101ac9.png)
 ![Captura de Tela 2021-08-01 às 11 07 59](https://user-images.githubusercontent.com/83086134/127774459-c4da0128-fa22-4945-8359-eb8947f817bd.png)
 ![Captura de Tela 2021-08-01 às 11 08 07](https://user-images.githubusercontent.com/83086134/127774462-4aa05697-9e29-42ef-84a9-818e88525669.png)
